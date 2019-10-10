@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-zelcash_api_url = 'https://api.coinmarketcap.com/v1/ticker/zelcash/'
-response = requests.get(zelcash_api_url)
+cryptaldash_api_url = 'https://api.coinmarketcap.com/v1/ticker/cryptaldash/'
+response = requests.get(cryptaldash_api_url)
 response_json = response.json()
 print(response_json)
 

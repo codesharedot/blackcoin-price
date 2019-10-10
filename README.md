@@ -1,5 +1,5 @@
-# zelcash price 
+# cryptaldash price 
 
-Gets the zelcash price with Python (from JSON).
+Gets the cryptaldash price with Python (from JSON).
 
 https://pythonbasics.org
