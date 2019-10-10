@@ -1,5 +1,5 @@
-# credo price 
+# blackcoin price 
 
-Gets the credo price with Python (from JSON).
+Gets the blackcoin price with Python (from JSON).
 
 https://pythonbasics.org

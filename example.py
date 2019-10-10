@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-credo_api_url = 'https://api.coinmarketcap.com/v1/ticker/credo/'
-response = requests.get(credo_api_url)
+blackcoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/blackcoin/'
+response = requests.get(blackcoin_api_url)
 response_json = response.json()
 print(response_json)
 
