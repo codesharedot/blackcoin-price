@@ -1,5 +1,5 @@
-# cryptaldash price 
+# credo price 
 
-Gets the cryptaldash price with Python (from JSON).
+Gets the credo price with Python (from JSON).
 
 https://pythonbasics.org
